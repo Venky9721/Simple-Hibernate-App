@@ -1,0 +1,18 @@
+# Maven
+target/
+*.class
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Local secrets (do NOT push)
+src/main/resources/hibernate.local.cfg.xml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
